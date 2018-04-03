@@ -1,0 +1,9 @@
+[monitor]
+interval = 600
+tweet = true
+
+[twitter]
+consumer_key = PLACEHOLDER
+consumer_secret = PLACEHOLDER
+access_token = PLACEHOLDER
+access_token_secret = PLACEHOLDER
